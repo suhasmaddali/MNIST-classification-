@@ -3,4 +3,4 @@ MNIST dataset contains images of handwritten digits. With Convoluted Neural Netw
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/mnist_gif.gif" width = 500 />
 
-In addition to this, various implementations of convoluted neural networks was performed to get the best results on the test set. The main aim of the project was to reduce the categorical cross entropy loss. 
+In addition to this, various implementations of convoluted neural networks was performed to get the best results on the test set. The main aim of the project was to reduce the categorical cross entropy loss. Feel free to take a look at the repository where the various convoluted neural network implementations are performed. Thanks. 
