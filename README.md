@@ -5,6 +5,13 @@ MNIST dataset contains images of handwritten digits. With Convoluted Neural Netw
 
 The main aim of the project was to reduce the categorical cross entropy loss. Feel free to take a look at the repository where the various convoluted neural network implementations are performed. Thanks. 
 
+## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
+
+1. GPU-accelerated deep learning frameworks offer flexibility to design and train deep neural networks.
+2. With cuDNN and Nvidia's graphics drivers, I was able to train the models really quickly by using GPU cores rather than the CPU cores.
+3. This led to a significant increase in the speed of training and developing convolutional neural networks (CNNs). 
+4. 
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
