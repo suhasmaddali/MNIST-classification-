@@ -13,7 +13,7 @@ The MNIST dataset is a widely used benchmark dataset in the field of machine lea
 
 * __GPU-accelerated deep learning frameworks__ offer flexibility to design and train __deep neural networks__.
 * With __cuDNN__ and __Nvidia's graphics drivers__, I was able to train the models really quickly by using __GPU__ cores rather than the __CPU__ cores.
-* This led to a significant increase in the __speed of training__ and __developing convolutional neural networks (CNNs)__. 
+* This led to a significant increase in the speed of training and developing __convolutional neural networks (CNNs)__. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
