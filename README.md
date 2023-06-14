@@ -7,7 +7,7 @@ MNIST dataset contains images of handwritten digits. With Convolutional Neural N
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/mnist_gif.gif" width = 500 />
 
-The MNIST dataset is a widely used benchmark dataset in the field of machine learning. It consists of 60,000 training images and 10,000 test images of handwritten digits, each measuring 28x28 pixels. The dataset serves as a foundation for developing and evaluating algorithms in image recognition and classification tasks, making it an essential resource for researchers and practitioners in the field. The main aim of the project was to reduce the categorical cross entropy loss. 
+The MNIST dataset is a widely used benchmark dataset in the field of machine learning. It consists of __60,000__ training images and __10,000__ test images of handwritten digits, each measuring 28x28 pixels. The dataset serves as a foundation for developing and evaluating algorithms in image recognition and classification tasks, making it an essential resource for researchers and practitioners in the field. The main aim of the project was to reduce the categorical cross entropy loss. 
 
 ## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
 
