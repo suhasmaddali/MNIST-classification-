@@ -7,7 +7,7 @@ MNIST dataset contains images of handwritten digits. With Convolutional Neural N
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/mnist_gif.gif" width = 500 />
 
-The main aim of the project was to reduce the categorical cross entropy loss. Feel free to take a look at the repository where the various convolutional neural network implementations are performed. Thanks. 
+The main aim of the project was to reduce the categorical cross entropy loss. 
 
 ## 💻 Training with NVIDIA's RTX 2080 graphics card for Computer Vision Tasks 
 
